@@ -1,0 +1,234 @@
+# Created at 2021-10-15T11:25:11.996
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2021-10-15T11:25:13.780
+Unexpected IOException: 5,1,Scenario: Evening Dress Page,Then user Click On More Button and Navigate to Printed dress page(Scenario: Evening Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:13.782
+Unexpected IOException: 6,1,Scenario: Evening Dress Page,Then user Click On More Button and Navigate to Printed dress page(Scenario: Evening Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:13.785
+Unexpected IOException: 6,1,Scenario: Evening Dress Page,Scenario: Evening Dress Page,null,null,null
+
+
+# Created at 2021-10-15T11:25:13.787
+Unexpected IOException: 5,1,Scenario: Printed Dress Page,Scenario: Printed Dress Page,null,null,null
+
+
+# Created at 2021-10-15T11:25:13.790
+Unexpected IOException with stream: Before Hooks
+
+
+# Created at 2021-10-15T11:25:13.791
+Unexpected IOException with stream: BH :passed
+
+
+# Created at 2021-10-15T11:25:13.794
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-15T11:25:13.795
+Unexpected IOException with stream:   @sanitytest
+
+
+# Created at 2021-10-15T11:25:13.796
+Unexpected IOException with stream:   Scenario: Evening Dress Page                                        # src/test/java/org/features_files/shopping.feature:11
+
+
+# Created at 2021-10-15T11:25:13.797
+Unexpected IOException with stream:     When user Move to Cursor Dress Item                               # Step_Definition.user_Move_to_Cursor_Dress_Item()
+
+
+# Created at 2021-10-15T11:25:13.798
+Unexpected IOException with stream:     Then user Click On More Button and Navigate to Printed dress page # Step_Definition.user_Click_On_More_Button_and_Navigate_to_Printed_dress_page()
+
+
+# Created at 2021-10-15T11:25:14.569
+Unexpected IOException: 5,1,Scenario: Printed Dress Page,When user Enter a Quantity Value(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:14.571
+Unexpected IOException: 6,1,Scenario: Printed Dress Page,When user Enter a Quantity Value(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:15.747
+Unexpected IOException: 5,1,Scenario: Printed Dress Page,And user Select a "2"(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:15.754
+Unexpected IOException: 6,1,Scenario: Printed Dress Page,And user Select a "2"(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:16.006
+Unexpected IOException: 5,1,Scenario: Printed Dress Page,And user Change the Color Item(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:16.007
+Unexpected IOException: 6,1,Scenario: Printed Dress Page,And user Change the Color Item(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:21.216
+Unexpected IOException: 5,1,Scenario: Printed Dress Page,Then user Click Add to Card Button and Click to Proceed to checkout Button(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:21.217
+Unexpected IOException: 6,1,Scenario: Printed Dress Page,Then user Click Add to Card Button and Click to Proceed to checkout Button(Scenario: Printed Dress Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:21.229
+Unexpected IOException: 6,1,Scenario: Printed Dress Page,Scenario: Printed Dress Page,null,null,null
+
+
+# Created at 2021-10-15T11:25:21.230
+Unexpected IOException: 5,1,Scenario: Summary Page,Scenario: Summary Page,null,null,null
+
+
+# Created at 2021-10-15T11:25:21.232
+Unexpected IOException with stream: Before Hooks
+
+
+# Created at 2021-10-15T11:25:21.233
+Unexpected IOException with stream: BH :passed
+
+
+# Created at 2021-10-15T11:25:21.249
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-15T11:25:21.251
+Unexpected IOException with stream:   @sanitytest
+
+
+# Created at 2021-10-15T11:25:21.258
+Unexpected IOException with stream:   Scenario: Printed Dress Page                                                 # src/test/java/org/features_files/shopping.feature:17
+
+
+# Created at 2021-10-15T11:25:21.260
+Unexpected IOException with stream:     When user Enter a Quantity Value                                           # Step_Definition.user_Enter_a_Quantity_Value()
+
+
+# Created at 2021-10-15T11:25:21.261
+Unexpected IOException with stream:     And user Select a "2"                                                      # Step_Definition.user_Select_a(String)
+
+
+# Created at 2021-10-15T11:25:21.262
+Unexpected IOException with stream:     And user Change the Color Item                                             # Step_Definition.user_Change_the_Color_Item()
+
+
+# Created at 2021-10-15T11:25:21.264
+Unexpected IOException with stream:     Then user Click Add to Card Button and Click to Proceed to checkout Button # Step_Definition.user_Click_Add_to_Card_Button_and_Click_to_Proceed_to_checkout_Button()
+
+
+# Created at 2021-10-15T11:25:51.433
+Unexpected IOException: 5,1,Scenario: Summary Page,Then user Click to Proceed to checkout Button(Scenario: Summary Page),null,null,null
+
+
+# Created at 2021-10-15T11:25:51.464
+Unexpected IOException: 7,1,Scenario: Summary Page,Then user Click to Proceed to checkout Button(Scenario: Summary Page),null,no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},null,no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},org.openqa.selenium.NoSuchElementException: \000Ano such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]}\000A
+
+
+# Created at 2021-10-15T11:25:51.480
+Unexpected IOException: 7,1,Scenario: Summary Page,Scenario: Summary Page,null,no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},null,no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},no such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]},org.openqa.selenium.NoSuchElementException: \000Ano such element: Unable to locate element: {"method":"xpath"\002C"selector":"(//a[@title='Proceed to checkout'])[2]"}\000A  (Session info: chrome=94.0.4606.81)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-TG3D4HK'\002C ip: '192.168.236.158'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_281'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 94.0.4606.81\002C chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6...\002C userDataDir: C:\005CUsers\005Cspraks99\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:57970}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 024122fc89331ed04084c8594258579d\000A*** Element info: {Using=xpath\002C value=(//a[@title='Proceed to checkout'])[2]}\000A
+
+
+# Created at 2021-10-15T11:25:51.527
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-15T11:25:51.527
+Unexpected IOException with stream:   @sanitytest
+
+
+# Created at 2021-10-15T11:25:51.527
+Unexpected IOException with stream:   Scenario: Summary Page                          # src/test/java/org/features_files/shopping.feature:25
+
+
+# Created at 2021-10-15T11:25:51.527
+Unexpected IOException with stream:     Then user Click to Proceed to checkout Button # Step_Definition.user_Click_to_Proceed_to_checkout_Button()
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream:       org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@title='Proceed to checkout'])[2]"}
+        (Session info: chrome=94.0.4606.81)
+      For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+      Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+      System info: host: 'DESKTOP-TG3D4HK', ip: '192.168.236.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+      Driver info: org.openqa.selenium.chrome.ChromeDriver
+      Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\spraks99\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57970}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+      Session ID: 024122fc89331ed04084c8594258579d
+      *** Element info: {Using=xpath, value=(//a[@title='Proceed to checkout'])[2]}
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+      	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+      	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+      	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+      	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+      	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+      	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+      	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+      	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+      	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+      	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+      	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+      	at com.sun.proxy.$Proxy19.click(Unknown Source)
+      	at com.Base.Class.Base_Class.clickElement(Base_Class.java:55)
+      	at org.step_definition.Step_Definition.user_Click_to_Proceed_to_checkout_Button(Step_Definition.java:119)
+      	at ?.Then user Click to Proceed to checkout Button(src/test/java/org/features_files/shopping.feature:27)
+
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream:   @sanitytest
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream:   Scenario Outline: Login Page                                   # src/test/java/org/features_files/shopping.feature:30
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream:     When user Enter a "<username>" in Username Field
+
+
+# Created at 2021-10-15T11:25:51.542
+Unexpected IOException with stream:     And user Enter a "<password>" in Password Field
+
+
+# Created at 2021-10-15T11:25:51.558
+Unexpected IOException with stream:     Then user Click to Sign in Button and Navigate to Order Page
+
+
+# Created at 2021-10-15T11:25:51.558
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-15T11:25:51.558
+Unexpected IOException with stream:     Examples: 
+
+
+# Created at 2021-10-15T11:25:51.605
+Unexpected IOException: 5,1,| ram@123gmail.com | sprksram123 |,| ram@123gmail.com | sprksram123 |,null,null,null
+
+
+# Created at 2021-10-15T11:25:51.605
+Unexpected IOException with stream: Before Hooks
+
+
+# Created at 2021-10-15T11:25:51.605
+Unexpected IOException with stream: BH :passed
+
+

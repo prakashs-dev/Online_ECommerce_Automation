@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73248" started-at="2021-10-15T12:59:26 IST" finished-at="2021-10-15T13:00:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73248" started-at="2021-10-15T12:59:26 IST" finished-at="2021-10-15T13:00:39 IST">
+      <class name="org.testNG.TestNG_Runner">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:org.testNG.TestNG_Runner@4d3167f4]" name="configuration" is-config="true" duration-ms="1232" started-at="2021-10-15T12:59:26 IST" finished-at="2021-10-15T12:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="browser_lanuch()[pri:0, instance:org.testNG.TestNG_Runner@4d3167f4]" name="browser_lanuch" duration-ms="25478" started-at="2021-10-15T12:59:27 IST" finished-at="2021-10-15T12:59:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_lanuch -->
+        <test-method status="PASS" signature="home_page()[pri:0, instance:org.testNG.TestNG_Runner@4d3167f4]" name="home_page" duration-ms="5472" started-at="2021-10-15T12:59:53 IST" finished-at="2021-10-15T12:59:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_page -->
+        <test-method status="PASS" signature="evening_dress()[pri:1, instance:org.testNG.TestNG_Runner@4d3167f4]" name="evening_dress" duration-ms="5085" started-at="2021-10-15T12:59:58 IST" finished-at="2021-10-15T13:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- evening_dress -->
+        <test-method status="PASS" signature="printed_dress()[pri:2, instance:org.testNG.TestNG_Runner@4d3167f4]" name="printed_dress" duration-ms="7197" started-at="2021-10-15T13:00:03 IST" finished-at="2021-10-15T13:00:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printed_dress -->
+        <test-method status="PASS" signature="summary()[pri:3, instance:org.testNG.TestNG_Runner@4d3167f4]" name="summary" duration-ms="5258" started-at="2021-10-15T13:00:10 IST" finished-at="2021-10-15T13:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summary -->
+        <test-method status="PASS" signature="sign_in()[pri:4, instance:org.testNG.TestNG_Runner@4d3167f4]" name="sign_in" duration-ms="7147" started-at="2021-10-15T13:00:16 IST" finished-at="2021-10-15T13:00:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in -->
+        <test-method status="PASS" signature="address()[pri:5, instance:org.testNG.TestNG_Runner@4d3167f4]" name="address" duration-ms="2754" started-at="2021-10-15T13:00:23 IST" finished-at="2021-10-15T13:00:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method status="PASS" signature="shipping()[pri:6, instance:org.testNG.TestNG_Runner@4d3167f4]" name="shipping" duration-ms="1901" started-at="2021-10-15T13:00:26 IST" finished-at="2021-10-15T13:00:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipping -->
+        <test-method status="PASS" signature="payment()[pri:7, instance:org.testNG.TestNG_Runner@4d3167f4]" name="payment" duration-ms="8894" started-at="2021-10-15T13:00:27 IST" finished-at="2021-10-15T13:00:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method status="PASS" signature="browser_close()[pri:8, instance:org.testNG.TestNG_Runner@4d3167f4]" name="browser_close" duration-ms="328" started-at="2021-10-15T13:00:36 IST" finished-at="2021-10-15T13:00:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="write_test()[pri:0, instance:org.testNG.TestNG_Runner@4d3167f4]" name="write_test" is-config="true" duration-ms="2294" started-at="2021-10-15T13:00:37 IST" finished-at="2021-10-15T13:00:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_test -->
+      </class> <!-- org.testNG.TestNG_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
